@@ -21,7 +21,23 @@ Hacer que la mitología y la historia sean accesibles y divertidas para los niñ
 ## 🛠️ Tecnologías Utilizadas
 - **Generación de texto**: Modelos LLM.  
 - **Síntesis de voz (TTS)**: ElevenLabs.
-- **Música y efectos**: Suno / Udio + edición de audio.   
+- **Música y efectos**: Suno / Udio + edición de audio.
+
+---
+
+## 🎧 Audiolibros creados
+Aquí puedes descubrir los cuentos que ya han cobrado vida en formato **audiolibro con voces e IA**:
+
+✨ Mitología Griega  
+- 🌀 **Teseo y el Minotauro**  
+- 🕸️ **El mito de Aracne**  
+- 👑 **El Rey Midas y el toque de oro**  
+- 👂 **El Rey Midas y las orejas de burro**  
+- 🐴 **El caballo de Troya**  
+- 💪 **Los 12 trabajos de Hércules (Parte I)**  
+
+✨ Literatura Egipcia  
+- 🌊 **El cuento del náufrago** *(Papiro Egipcio)*  
 
 ---
 
