@@ -1,11 +1,8 @@
-# Cuentos-con-IA
-Repositorio de Cuentos con IA, un proyecto que une narración tradicional y herramientas de Inteligencia Artificial. Contiene relatos originales de mitología griega, egipcia y romana adaptados a público infantil, con voces y música generadas por IA, en formato podcast/audiolibro.
-
 # 📚 Cuentos con IA
 
-Proyecto creativo que une **narración tradicional** con **Inteligencia Artificial** para acercar la historia y la mitología a un público infantil.  
+Repositorio de **Cuentos con IA**, un proyecto creativo que une **narración tradicional** y **herramientas de Inteligencia Artificial** para acercar la historia y la mitología a un público infantil.  
 
-Incluye relatos originales inspirados en la mitología griega, egipcia y romana, adaptados a niños de 4 a 7 años, con **voces generadas por IA** y **música de acompañamiento** en formato podcast/audiolibro.
+Incluye relatos originales inspirados en la **mitología griega, egipcia y romana**, adaptados a niños de 4 a 7 años, con **voces generadas por IA** y **música de acompañamiento**, presentados en formato **podcast/audiolibro**.
 
 ---
 
